@@ -1,0 +1,7 @@
+tshirt/*png
+*.orig
+*.rej
+*.swp
+*.bak
+*~
+*.tmp
