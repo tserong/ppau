@@ -5,3 +5,4 @@ tshirt/*png
 *.bak
 *~
 *.tmp
+*.csv
